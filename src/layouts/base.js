@@ -29,22 +29,22 @@ const BaseLayout = ({ children }) => {
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@jrgarciadev" />
-        <meta property="og:site_name" content="Junior García | Web & Mobile developer" />
+        <meta name="twitter:site" content="@" />
+        <meta property="og:site_name" content="Hai Le Huynh Long | Automation Tester" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Junior García | Web & Mobile developer" />
+        <meta property="og:title" content="Hai Le Huynh Long | Automation Tester" />
         <meta property="og:locale" content="en" />
-        <meta property="og:url" content="https://jrgarciadev.com" />
+        <meta property="og:url" content="https://www.hailehuynhlong.click" />
         <meta
           name="description"
-          content="Hello! I'm Junior, a Software Developer based in Buenos Aires, Argentina. I enjoy creating beautiful and reliable applications for internet and phones. My goal is to always build scalable products and performant experiences."
+          content="Hello! I'm Hai, a Automation Tester based in Ho Chi Minh city, Vietnam."
         />
         <meta
           name="keywords"
-          content="Developer, Javascript, Freelancer, React, React native, PHP, Laravel Developer, Vue JS Developer, React Developer"
+          content="Tester, Freelancer, Python, Javascript, Java, Robotframework, Selenium, Appium"
         />
-        <meta property="og:image" content="https://jrgarciadev.com/avatar.jpeg" />
-        <meta property="twitter:image" content="https://jrgarciadev.com/avatar.jpeg" />
+        <meta property="og:image" content="https://www.hailehuynhlong.click/avatar.jpeg" />
+        <meta property="twitter:image" content="https://www.hailehuynhlong.click/avatar.jpeg" />
       </Head>
       {children}
     </div>
