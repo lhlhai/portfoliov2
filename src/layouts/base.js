@@ -6,7 +6,7 @@ const BaseLayout = ({ children }) => {
   return (
     <div id="main">
       <Head>
-        <title>Junior García | Web & Mobile developer</title>
+        <title>Hai Le Huynh Long | Automation Tester</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="manifest" href="/manifest.json" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
