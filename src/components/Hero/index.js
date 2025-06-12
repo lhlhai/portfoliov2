@@ -14,8 +14,8 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Welcome, I&apos;m</h1>;
-  const two = <StyledBigTitle>Junior García.</StyledBigTitle>;
-  const three = <StyledBigTitle slate>I build web and mobile apps.</StyledBigTitle>;
+  const two = <StyledBigTitle>Hai Le Huynh Long.</StyledBigTitle>;
+  const three = <StyledBigTitle slate>I am an Automation Test Engineer .</StyledBigTitle>;
   const four = (
     <p>
       I&apos;m a software developer based in Buenos Aires AR, specializing in building exceptional
