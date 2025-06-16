@@ -7,7 +7,7 @@ import { StyledHeroSection, StyledBigTitle } from './styles';
 
 const Hero = () => {
   const [isMounted, setIsMounted] = useState(false);
-  
+
   useEffect(() => {
     const timeout = setTimeout(() => setIsMounted(true), NAV_DELAY);
     return () => clearTimeout(timeout);
