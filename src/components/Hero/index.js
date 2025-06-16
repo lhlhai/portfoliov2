@@ -17,7 +17,9 @@ const Hero = () => {
   const two = <StyledBigTitle>Hai Le Huynh Long.</StyledBigTitle>;
   const three = <StyledBigTitle slate>I am an Automation Test Engineer .</StyledBigTitle>;
   const four = (
-    <p>Hello! I&apos;m Hai, a Automation Tester based in Ho Chi Minh City, Vietnam. Here are a few technologies I&apos;ve been working with recently</p>
+    <p>
+      Hello! I&apos;m Hai, a Automation Tester based in Ho Chi Minh City, Vietnam. Here are a few technologies I&apos;ve been working with recently
+    </p>
   );
   const five = (
     <a href={`mailto:${email}`} className="email-link">
