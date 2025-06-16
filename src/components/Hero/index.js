@@ -7,7 +7,7 @@ import { StyledHeroSection, StyledBigTitle } from './styles';
 
 const Hero = () => {
   const [isMounted, setIsMounted] = useState(false);
-
+  
   useEffect(() => {
     const timeout = setTimeout(() => setIsMounted(true), NAV_DELAY);
     return () => clearTimeout(timeout);
@@ -18,7 +18,7 @@ const Hero = () => {
   const three = <StyledBigTitle slate>I am an Automation Test Engineer.</StyledBigTitle>;
   const four = (
     <p>
-      I&apos;m a Automation tester based in Ho Chi Minh City, Vietnam.
+      I&apos;m a Automation tester based in Ho Chi Minh City, Vietnam. I specialize in testing
       websites and mobile applications, and everything in between.
     </p>
   );
