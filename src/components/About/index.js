@@ -22,9 +22,6 @@ const About = () => {
         <StyledText>
           <div>
             <p>Hello! I&apos;m Hai, a Automation Tester based in Ho Chi Minh City, Vietnam.</p>
-            <p>
-              I enjoy creating beautiful and reliable applications for internet and phones.
-            </p>
             <br />
             <p>Here are a few technologies I&apos;ve been working with recently:</p>
           </div>
