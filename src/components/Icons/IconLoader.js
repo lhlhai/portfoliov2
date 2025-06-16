@@ -14,9 +14,9 @@ const IconLoader = ({ theme }) => (
   >
     <title>Loader Logo</title>
     <g fill={theme.brand.primary}>
-        <path d="M10 20h8v80h-8V20zm0 36h32v8H10v-8zm24-36h8v80h-8V20z" />
-        <path d="M60 20h8v80h-8V20zm0 72h36v8H60v-8z" />
-      </g>
+      <path d="M10 20h8v80h-8V20zm0 36h32v8H10v-8zm24-36h8v80h-8V20z" />
+      <path d="M60 20h8v80h-8V20zm0 72h36v8H60v-8z" />
+    </g>
   </svg>
 );
 
