@@ -19,6 +19,7 @@ const Hero = () => {
   const four = (
     <p>
       I&apos;m a Automation tester based in Ho Chi Minh City, Vietnam.
+      websites and mobile applications, and everything in between.
     </p>
   );
   const five = (
